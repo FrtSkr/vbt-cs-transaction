@@ -1,0 +1,15 @@
+C:\vbt_C#\try-catch_transaction\bin\Debug\net6.0\try-catch_transaction.exe
+C:\vbt_C#\try-catch_transaction\bin\Debug\net6.0\try-catch_transaction.deps.json
+C:\vbt_C#\try-catch_transaction\bin\Debug\net6.0\try-catch_transaction.runtimeconfig.json
+C:\vbt_C#\try-catch_transaction\bin\Debug\net6.0\try-catch_transaction.dll
+C:\vbt_C#\try-catch_transaction\bin\Debug\net6.0\try-catch_transaction.pdb
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.csproj.AssemblyReference.cache
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.GeneratedMSBuildEditorConfig.editorconfig
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.AssemblyInfoInputs.cache
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.AssemblyInfo.cs
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.csproj.CoreCompileInputs.cache
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.dll
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\refint\try-catch_transaction.dll
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.pdb
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\try-catch_transaction.genruntimeconfig.cache
+C:\vbt_C#\try-catch_transaction\obj\Debug\net6.0\ref\try-catch_transaction.dll
